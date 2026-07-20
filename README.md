@@ -171,12 +171,6 @@ flowchart TD
 
 ---
 
-## 📎 GitHub  
-
-https://github.com/Sujal-py3/rag-context-grounded-engine  
-
----
-
 ### ⭐ Quick Summary  
 
 An AI-powered RAG product that converts real-world documentation into accurate, structured software use cases using hybrid retrieval and strict context grounding.
